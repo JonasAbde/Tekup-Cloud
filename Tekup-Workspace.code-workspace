@@ -1,0 +1,63 @@
+{
+  "folders": [
+    {
+      "name": "Tekup-Cloud",
+      "path": "."
+    },
+    {
+      "name": "RendetaljeOS",
+      "path": "..\\RendetaljeOS"
+    },
+    {
+      "name": "Tekup-Billy",
+      "path": "..\\Tekup-Billy"
+    },
+    {
+      "name": "Tekup-AI-Assistant",
+      "path": "..\\tekup-ai-assistant"
+    },
+    {
+      "name": "Tekup-Gmail-Automation",
+      "path": "..\\tekup-gmail-automation"
+    },
+    {
+      "name": "Agent-Orchestrator",
+      "path": "..\\Agent-Orchestrator"
+    },
+    {
+      "name": "Gmail-PDF-Auto",
+      "path": "..\\Gmail-PDF-Auto"
+    },
+    {
+      "name": "Gmail-PDF-Forwarder",
+      "path": "..\\Gmail-PDF-Forwarder"
+    },
+    {
+      "name": "Tekup-Google-AI",
+      "path": "..\\Tekup Google AI"
+    },
+    {
+      "name": "Tekup-Org",
+      "path": "..\\Tekup-org"
+    },
+    {
+      "name": "TekupVault",
+      "path": "..\\TekupVault"
+    },
+    {
+      "path": "../tekup-cloud-dashboard"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/__pycache__": true,
+      "**/.venv": true,
+      "**/venv": true,
+      "**/.pytest_cache": true,
+      "**/.next": true,
+      "**/dist": true,
+      "**/build": true
+    }
+  }
+}

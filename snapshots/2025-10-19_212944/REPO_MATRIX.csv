@@ -1,0 +1,13 @@
+Repo Name,Location,Tech Stack,Package Manager,Deployment,CI/CD,Tests,Docs,Maturity Score,Critical Gap
+Tekup-Billy,c:\Users\empir\Tekup-Billy,"TypeScript, Node 18",npm,Render.com + Docker,GitHub Actions,Integration tests,Excellent,10,None
+TekupVault,c:\Users\empir\TekupVault,TypeScript Monorepo,pnpm,Render.com + Docker,Auto-deploy,31 tests passing,Excellent,10,None
+Tekup-org,c:\Users\empir\Tekup-org,"NestJS, Next.js 15",pnpm,Docker only,None,Jest configured,Good,8,CI/CD pipelines
+RendetaljeOS,c:\Users\empir\RendetaljeOS,TypeScript Monorepo,pnpm,Docker only,None,Partial,Good,8,CI/CD + Testing
+Agent-Orchestrator,c:\Users\empir\Agent-Orchestrator,"Electron, React",npm,Desktop app,None,None,Good,7,Testing + CI/CD
+Tekup Google AI (RenOS),c:\Users\empir\Tekup Google AI,"TypeScript, React 18",npm,Docker + Production,None,Vitest partial,Extensive,7,CI/CD + Tests
+tekup-ai-assistant,c:\Users\empir\tekup-ai-assistant,"Python, TypeScript MCP",npm,None,None,Scripts only,Extensive,6,Deployment + Testing
+tekup-gmail-automation,c:\Users\empir\tekup-gmail-automation,Python MCP,pip,Docker,None,Test files exist,Basic,6,CI/CD + Automation
+tekup-cloud-dashboard,c:\Users\empir\tekup-cloud-dashboard,Vue/React,npm,None,None,None,Basic,4,Everything
+Tekup-Cloud,c:\Users\empir\Tekup-Cloud,Markdown + PowerShell,N/A,N/A,N/A,N/A,Extensive,N/A,Documentation repo
+Gmail-PDF-Auto,c:\Users\empir\Gmail-PDF-Auto,Unknown,N/A,None,None,None,None,0,Needs initialization
+Gmail-PDF-Forwarder,c:\Users\empir\Gmail-PDF-Forwarder,Unclear,N/A,None,None,None,None,1,Needs cleanup
